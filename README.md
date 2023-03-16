@@ -2,7 +2,7 @@
 
 [![npm shield](https://img.shields.io/npm/v/@fern-api/neon)](https://www.npmjs.com/package/@fern-api/neon)
 
-The Neon Node.js library provides access to the {Company} API from JavaScript/TypeScript.
+The Neon Node.js library provides access to the Neon API from JavaScript/TypeScript.
 
 ## Documentation
 
