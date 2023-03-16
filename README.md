@@ -1,12 +1,12 @@
-# {Company} Node Library
+# Neon Node Library
 
-[![npm shield](https://img.shields.io/npm/v/@fern-api/{company})](https://www.npmjs.com/package/@fern-api/{company})
+[![npm shield](https://img.shields.io/npm/v/@fern-api/neon)](https://www.npmjs.com/package/@fern-api/neon)
 
-The {Company} Node.js library provides access to the {Company} API from JavaScript/TypeScript.
+The Neon Node.js library provides access to the {Company} API from JavaScript/TypeScript.
 
 ## Documentation
 
-API reference documentation is available [here](docs_url).
+API reference documentation is available [here](https://neon.tech/docs/reference/api-reference).
 
 ## Usage
 
